@@ -13,7 +13,9 @@ Chào mừng bạn đến với phần 2 của series "Làm chủ Supabase với
 - Cách xây dựng hàm đăng ký người dùng mới
 - Phương pháp tạo hàm đăng nhập bảo mật
 - Kỹ năng debug và xử lý lỗi trong quá trình phát triển
+  
 https://www.youtube.com/watch?v=-4w35XeSZq0&ab_channel=Nguy%E1%BB%85nNg%C3%B4Th%C6%B0%E1%BB%A3ng
+
 💡 Sau video này, bạn sẽ có nền tảng vững chắc để xây dựng hệ thống xác thực cho ứng dụng của mình sử dụng Supabase và Python.
 
 🚀 Hãy code cùng chúng tôi và đừng quên để lại bình luận nếu bạn có bất kỳ câu hỏi nào!
