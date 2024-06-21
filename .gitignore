@@ -1,3 +1,4 @@
 # Ignore entire env folder
 env/
 video_source/
+"video_source/" 
