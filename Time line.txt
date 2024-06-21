@@ -1,0 +1,50 @@
+# Kế hoạch Video Tiếp Theo: Supabase với Python
+
+## Video 3: Làm việc với Cơ sở dữ liệu Supabase
+- Giới thiệu về PostgreSQL trong Supabase
+- Tạo bảng và định nghĩa schema
+- Thực hiện các thao tác CRUD cơ bản (Create, Read, Update, Delete)
+- Sử dụng các truy vấn nâng cao (filtering, sorting, pagination)
+
+## Video 4: Realtime Subscriptions với Supabase và Python
+- Giới thiệu về tính năng Realtime của Supabase
+- Thiết lập kết nối realtime
+- Lắng nghe và xử lý các sự kiện realtime (INSERT, UPDATE, DELETE)
+- Xây dựng ứng dụng chat đơn giản sử dụng realtime
+
+## Video 5: Quản lý Tệp với Supabase Storage
+- Giới thiệu về Supabase Storage
+- Tải lên tệp (upload)
+- Tải xuống tệp (download)
+- Quản lý quyền truy cập tệp
+- Xây dựng ứng dụng quản lý hình ảnh đơn giản
+
+## Video 6: Serverless Functions với Supabase Edge Functions
+- Giới thiệu về Edge Functions
+- Tạo và triển khai Edge Function đầu tiên
+- Gọi Edge Function từ ứng dụng Python
+- Xử lý dữ liệu phía server với Edge Functions
+
+## Video 7: Bảo mật và Quản lý Quyền Truy cập trong Supabase
+- Giới thiệu về Row Level Security (RLS)
+- Thiết lập và quản lý policies
+- Xác thực và ủy quyền nâng cao
+- Bảo vệ API và dữ liệu
+
+## Video 8: Xây dựng Ứng dụng Web với Flask và Supabase
+- Thiết lập dự án Flask
+- Tích hợp Supabase vào ứng dụng Flask
+- Xây dựng các route và views
+- Triển khai ứng dụng lên nền tảng hosting
+
+## Video 9: Tối ưu hóa Hiệu suất và Xử lý Lỗi
+- Tối ưu hóa truy vấn cơ sở dữ liệu
+- Sử dụng indexes hiệu quả
+- Triển khai caching với Supabase
+- Xử lý lỗi và logging
+
+## Video 10: Tổng kết Series và Các Bước Tiếp Theo
+- Ôn tập các khái niệm chính đã học
+- Demo ứng dụng tổng hợp sử dụng tất cả các tính năng
+- Thảo luận về các tính năng nâng cao của Supabase
+- Gợi ý các nguồn học tập và phát triển tiếp theo

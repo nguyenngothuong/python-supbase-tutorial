@@ -1,0 +1,3 @@
+# Ignore entire env folder
+env/
+video_source/"*.mp4" 
